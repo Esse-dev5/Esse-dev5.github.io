@@ -36,4 +36,26 @@
 	justify-content:center;
 	height:90vh;
 }
+.about .about-content {
+	margin:150px auto 0 auto;
+	width:500px;
+}
+.home1 {
+
+	background:url("https://i.ibb.co/SVs3pGT/gettyimages-1475485206-612x612.jpg");
+	bacground-size:cover;
+	height:100vh;
+}@import
+url('https://fonts.google.com/css?family=Roboto');
+
+.about .about-content h1 {
+	text-align:center
+	font-family:'Roboto',sans-serif;
+	color:red;
+}
+.about .about-content p {
+	text-align:justify;
+	font-family:'Lato',sans-serif;
+	color:#fff;
+}
 
