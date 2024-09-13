@@ -1,8 +1,10 @@
 .nav{
+
 	height:50px;
 	background:blue;
 }
 .nav div{
+
 	display:inline-block;
 	position:absolute;
 	left:0;
@@ -20,4 +22,9 @@
 .nav ul li a{
 	color:white;
 	padding:5px;
+}
+.home {
+	background:url("https://i.ibb.co/0XnJJWN/gettyimages-1458679872-612x612.jpg");
+	background-size:cover;
+	height:100vh;
 }
