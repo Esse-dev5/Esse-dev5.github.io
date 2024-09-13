@@ -24,7 +24,16 @@
 	padding:5px;
 }
 .home {
+
 	background:url("https://i.ibb.co/0XnJJWN/gettyimages-1458679872-612x612.jpg");
 	background-size:cover;
 	height:100vh;
 }
+.home .text-container {
+	text-align:center;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	height:90vh;
+}
+
