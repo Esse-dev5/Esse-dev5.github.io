@@ -59,28 +59,28 @@ url('https://fonts.google.com/css?family=Roboto');
 	color:#fff;
 
 }
-.services.services-content {
+.service.service-content {
 	margin:80px auto 0 auto;
 	text-align:center;
 
 
 }
-.services-content .card-container ul {
+.service-content .card-container ul {
 	padding:0;
 }
-.services-content .card-container ul li {
+.service-content .card-container ul li {
 	list-style:none;
 	display:inline-block;
 	margin:20px;
 	width:300px;
 	length:100px;
 }
-.services-content .card-container ul li p {
+.service-content .card-container ul li p {
 	text-align:justify;
 	font-family:'Lato',Sans-serif;
 	color:green;
 }
-.services .services-content h1 {
+.service .service-content h1 {
 	font-family:'Roboto',Sans-serif;
 }
 
